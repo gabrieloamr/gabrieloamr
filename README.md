@@ -1,1 +1,7 @@
-Olá, sou o Gabriel, moro em BH e sou estudante de Engenharia de Software na PUC Minas.
+-----
+
+<div>
+<img align="center" alt="Header" src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/github-header-image.png"/>
+</div>
+
+-----
