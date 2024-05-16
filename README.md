@@ -1,10 +1,33 @@
------
-
 <div>
 <img align="center" alt="Header" src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/github-header-image.png"/>
 </div>
 
 -----
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+<tr>
+<td><a href="https://github.com/gabrieloamr" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/github5.png" width="55px" height="55px"/></a>
+</td>
+<td><a href="https://replit.com/@gabrieloamr"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/replit2.png" width="50px" height="50px"/></a>
+</td>
+<td><a href="mailto:gabrieloliveiraban@gmail.com" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/gmail3.png?raw=true" width="50px" height="42px"/></a>
+</td>
+<td><a href="https://www.instagram.com/gabrieloamr/" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://www.linkedin.com/in/gabrieloamr/" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+</td>
+<td><a href="https://discordapp.com/users/zacbel" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/discord2.png?raw=true" width="50px" height="42px"/></a>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="11"></td>
+</tr> 
+</table>
+</div>
 
 <div align="justify">
 <i><b>Olá</b> :wave:, sou o <code>Gabriel</code>, moro em BH e sou Dev. Atualmente sou estudante do curso de <code>Engenharia de Software</code> na <a href="https://pucminas.br/" target="_blank">PUC Minas</a></i>👨🏻‍💻<br />
