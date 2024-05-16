@@ -18,7 +18,7 @@
   
 Sou um desenvolvedor apaixonado por tecnologia. Estou sempre em busca de aprender coisas novas e enfrentar desafios interessantes. Estudo <code>Engenharia de Software</code> na PUC Minas, uma jornada que me conduziu a mergulhar no vasto universo da programação.
 
-Minha paixão pela tecnologia teve início durante a minha infância, quando fui apresentado aos fascinantes mundos dos jogos digitais, como Super Mario, Final Fantasy VII, Street Fighter e Minecraft. Essas experiências despertaram em mim uma curiosidade incessante sobre como os jogos eram criados e como a tecnologia permitia a construção de universos tão envolventes. Desde então, tenho explorado e mergulhado cada vez mais fundo no vasto e dinâmico campo da programação e da tecnologia, buscando aprender em diferentes áreas e participando de projetos.
+Minha paixão pela tecnologia teve início durante a minha infância, quando fui apresentado aos fascinantes mundos dos jogos digitais, como <code>Super Mario🍄</code>, <code>Final Fantasy VII🌌</code>, <code>Street Fighter🔥</code> e <code>Minecraft⛏</code>. Essas experiências despertaram em mim uma curiosidade incessante sobre como os jogos eram criados e como a tecnologia permitia a construção de universos tão envolventes. Desde então, tenho explorado e mergulhado cada vez mais fundo no vasto e dinâmico campo da programação e da tecnologia, buscando aprender em diferentes áreas e participando de projetos.
 </div>
 
 -----
