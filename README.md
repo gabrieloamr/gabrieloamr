@@ -39,5 +39,23 @@
 
 -----
 
+<div>
+<div>
+<details>
+<summary><img height="20" alt="GIF" src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/spotify.gif"/> Gabriel's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=zahrenz" alt="Data Card for Spotify">
+</details>
+</div>
+  
+<!-- <div>
+<a href="https://www.last.fm/pt/user/#" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=#&width=400"/></a>
+</div> -->
 
+<div>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=zahrenz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=zahrenz&count=10"/>
+</div>
+</div>
+
+-----
 
