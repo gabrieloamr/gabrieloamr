@@ -12,7 +12,7 @@
 <tr>
 <td><a href="https://github.com/gabrieloamr" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/github5.png" width="55px" height="55px"/></a>
 </td>
-<td><a href="https://replit.com/@gabrieloamr"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/replit2.png" width="55px" height="55px"/></a>
+<td><a href="https://replit.com/@gabrieloamr" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/replit2.png" width="55px" height="55px"/></a>
 </td>
 <td><a href="mailto:gabrieloliveiraban@gmail.com" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/gmail3.png?raw=true" width="50px" height="42px"/></a>
 </td>
