@@ -70,3 +70,4 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 
 -----
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0062ff,100:000373&section=footer&reversal=false"/>
