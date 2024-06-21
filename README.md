@@ -86,7 +86,7 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 </div> -->
 
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=zahrenz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zahrenz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=zahrenz&count=10"/>
 </div>
 </div>
