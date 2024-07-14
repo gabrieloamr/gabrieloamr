@@ -81,9 +81,9 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 </details>
 </div>
   
-<!-- <div>
-<a href="https://www.last.fm/pt/user/#" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=#&width=400"/></a>
-</div> -->
+<div>
+<a href="https://www.last.fm/pt/user/zacbel" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=zacbel&width=400"/></a>
+</div>
 
 <div>
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zahrenz&cover_image=true&theme=default"/> &nbsp; &nbsp; 
