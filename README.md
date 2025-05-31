@@ -10,17 +10,17 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/gabrieloamr" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/github5.png" width="55px" height="55px"/></a>
+<td><a href="https://github.com/gabrieloliveiroa" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/github5.png" width="55px" height="55px"/></a>
 </td>
-<td><a href="https://replit.com/@gabrieloamr" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/replit2.png" width="55px" height="55px"/></a>
+<td><a href="https://replit.com/@gabrieloliveiroa" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/replit2.png" width="55px" height="55px"/></a>
 </td>
-<td><a href="mailto:gabrieloliveiraban@gmail.com" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/gmail3.png?raw=true" width="50px" height="42px"/></a>
+<td><a href="mailto:gabrieloliveiraban@gmail.com" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/gmail3.png?raw=true" width="50px" height="42px"/></a>
 </td>
-<td><a href="https://www.instagram.com/gabrieloamr/" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.instagram.com/gabrieloliveiroa/" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/gabrieloamr/" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/gabrieloliveiroa/" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://discordapp.com/users/zacbel" target="_blank"><img src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/discord2.png?raw=true" width="50px" height="42px"/></a>
+<td><a href="https://discordapp.com/users/zacbel" target="_blank"><img src="https://github.com/gabrieloliveiroa/gabrieloliveiroa/blob/master/img/discord2.png?raw=true" width="50px" height="42px"/></a>
 </td>
 </tr>
 <tr>
@@ -99,7 +99,7 @@ Minha paixão pela tecnologia teve início durante a minha infância, quando fui
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/gabrieloamr/gabrieloamr/blob/master/img/spotify.gif"/> Gabriel's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/gabrieloamr/gabrieloliveiroa/blob/master/img/spotify.gif"/> Gabriel's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=zahrenz" alt="Data Card for Spotify">
 </details>
 </div>
